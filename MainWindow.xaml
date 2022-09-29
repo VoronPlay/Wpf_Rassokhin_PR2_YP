@@ -9,5 +9,11 @@
     <Grid>
         <Button x:Name="odin" Width="60" Height="30" Content="Задание 1" Click="z_odin" Margin="150,0,0,0"/>
         <Button x:Name="dva" Width="60" Height="30" Content="Задание 2" Click="z_dva" Margin="0,0,0,0" />
+        <Button x:Name="Tri" Width="60" Height="30" Content="Задание 3" Click="z_Tri" Margin="300,0,0,0"/>
+        <Button x:Name="Herire" Width="60" Height="30" Content="Задание 4" Click="z_Herire" Margin="0,0,150,0"/>
+        <Button x:Name="Payti" Width="60" Height="30" Content="Задание 5" Click="z_Payti" Margin="0,0,300,0"/>
+        <Button x:Name="Shecti" Width="60" Height="30" Content="Задание 6" Click="z_Shecti" Margin="0,0,450,0"/>
+        <Button x:Name="Semi" Width="60" Height="30" Content="Задание 7" Click="z_Semi" Margin="450,0,0,0"/>
+        <Button x:Name="Vosemi" Width="60" Height="30" Content="Задание 8" Click="z_Vosemi" Margin="450,100,0,0"/>
     </Grid>
 </Window>

@@ -37,5 +37,41 @@ namespace Wpf_Rassokhin_PR2_YP
             window2.Show(); 
             
         }
+
+        private void z_Tri(object sender, RoutedEventArgs e)
+        {
+            Window3 window3 = new Window3();
+            window3.Show();
+        }
+
+        private void z_Herire(object sender, RoutedEventArgs e)
+        {
+            Window4 window4 = new Window4();
+            window4.Show();
+        }
+
+        private void z_Payti(object sender, RoutedEventArgs e)
+        {
+            Window5 window5 = new Window5();
+            window5.Show();
+        }
+
+        private void z_Shecti(object sender, RoutedEventArgs e)
+        {
+            Window6 window6 = new Window6();
+            window6.Show();
+        }
+
+        private void z_Semi(object sender, RoutedEventArgs e)
+        {
+            Window7 window7 = new Window7();
+            window7.Show();
+        }
+
+        private void z_Vosemi(object sender, RoutedEventArgs e)
+        {
+            Window8 window8 = new Window8();
+            window8.Show();
+        }
     }
 }
