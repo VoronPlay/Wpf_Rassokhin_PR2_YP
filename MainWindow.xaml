@@ -15,5 +15,9 @@
         <Button x:Name="Shecti" Width="60" Height="30" Content="Задание 6" Click="z_Shecti" Margin="0,0,450,0"/>
         <Button x:Name="Semi" Width="60" Height="30" Content="Задание 7" Click="z_Semi" Margin="450,0,0,0"/>
         <Button x:Name="Vosemi" Width="60" Height="30" Content="Задание 8" Click="z_Vosemi" Margin="450,100,0,0"/>
+        <Button x:Name="Devyati" Width="60" Height="30" Content="Задание 9" Click="z_Devyati" Margin="300,100,0,0"/>
+        <Button x:Name="Desayti" Width="70" Height="30" Content="Задание 10" Click="z_Desayti" Margin="150,100,0,0"/>
+        <Button x:Name="Odinadhati" Width="70" Height="30" Content="Задание 11" Click="z_Odinadhati" Margin="0,100,0,0"/>
+        <Button x:Name="Dvenadhati" Width="70" Height="30" Content="Задание 12" Click="z_Dvenadhati" Margin="0,100,150,0"/>
     </Grid>
 </Window>

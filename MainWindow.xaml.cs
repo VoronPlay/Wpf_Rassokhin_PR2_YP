@@ -73,5 +73,29 @@ namespace Wpf_Rassokhin_PR2_YP
             Window8 window8 = new Window8();
             window8.Show();
         }
+
+        private void z_Devyati(object sender, RoutedEventArgs e)
+        {
+            Window9 window9 = new Window9();
+            window9.Show();
+        }
+
+        private void z_Desayti(object sender, RoutedEventArgs e)
+        {
+            Window10 window10 = new Window10();
+            window10.Show();
+        }
+
+        private void z_Odinadhati(object sender, RoutedEventArgs e)
+        {
+            Window11 window11 = new Window11();
+            window11.Show();
+        }
+
+        private void z_Dvenadhati(object sender, RoutedEventArgs e)
+        {
+            Window12 window12 = new Window12();
+            window12.Show();
+        }
     }
 }
