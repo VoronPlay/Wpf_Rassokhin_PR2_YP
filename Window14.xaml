@@ -1,0 +1,30 @@
+﻿<Window x:Class="Wpf_Rassokhin_PR2_YP.Window14"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Rassokhin_PR2_YP"
+        mc:Ignorable="d"
+        Title="Window14" Height="450" Width="800">
+    <Grid>
+        <Menu x:Name="menu" Background="Wheat" BorderBrush="Navy" BorderThickness="1">
+            <MenuItem Header="_Меню" Click="MenuItem_Click_1">
+                <MenuItem Click="fon" Header="_Изменить цвет фона окна"/>
+                <MenuItem Click="info" Header="_О разработчике"/>
+                <MenuItem Click="closs" Header="_Закрыть окно"/>
+            </MenuItem>
+            <MenuItem  Header="_Изменить цвет фона окна" Click="MenuItem_Click">
+                <MenuItem Click="info" Header="_О разработчике"/>
+                <MenuItem Click="closs" Header="_Закрыть окно"/>
+            </MenuItem>
+            <MenuItem Header="_О разработчике" Click="MenuItem_Click_1">
+                <MenuItem Click="fon" Header="_Изменить цвет фона окна"/>
+                <MenuItem Click="closs" Header="_Закрыть окно"/>
+            </MenuItem>
+            <MenuItem Header="_Закрыть окно" Click="MenuItem_Click_2">
+                <MenuItem Click="fon" Header="_Изменить цвет фона окна"/>
+                <MenuItem Click="info" Header="_О разработчике"/>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

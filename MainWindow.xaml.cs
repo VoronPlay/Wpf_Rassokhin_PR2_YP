@@ -97,5 +97,11 @@ namespace Wpf_Rassokhin_PR2_YP
             Window12 window12 = new Window12();
             window12.Show();
         }
+
+        private void z_CP_1(object sender, RoutedEventArgs e)
+        {
+            Window14 window14 = new Window14();
+            window14.Show();
+        }
     }
 }
