@@ -52,5 +52,11 @@ namespace Wpf_Rassokhin_PR2_YP
         {
 
         }
+
+        private void z_CP_2(object sender, RoutedEventArgs e)
+        {
+            Window16 window16 = new Window16();
+            window16.Show();
+        }
     }
 }

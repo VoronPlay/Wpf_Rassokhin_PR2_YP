@@ -26,5 +26,6 @@
                 <MenuItem Click="info" Header="_О разработчике"/>
             </MenuItem>
         </Menu>
+        <Button x:Name="CP_2" Width="60" Height="30" Content="Задание 2" Click="z_CP_2" Margin="0,100,300,0"/>
     </Grid>
 </Window>

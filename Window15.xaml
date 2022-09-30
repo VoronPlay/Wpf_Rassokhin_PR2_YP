@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="Window15" Height="450" Width="800">
     <Grid>
-        <Label Content="Расработал данную прогрумму Денис Рассохин" FontSize="20"/>
+        <Label Content="Сделал данную прогрумму Денис Рассохин" FontSize="20"/>
     </Grid>
 </Window>
